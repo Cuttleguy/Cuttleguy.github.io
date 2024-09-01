@@ -16,3 +16,4 @@ colorIndex+=1;
 
 }
 setInterval(colorChange,750);
+
