@@ -1,5 +1,5 @@
 var text= document.getElementById("text");
-var strtext="I hope you have the BEST BIRTHDAY EVER DADDY!"
+var strtext="HAPPY FATHERS DAY! \n I hope you have a great day."
 var colorIndex=0;
 var colors=["#ff0000","#ff6600","#ffff00","#00ff00","#0000ff","#4b0082","#880088"]
 function colorChange(){
